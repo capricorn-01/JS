@@ -2,12 +2,16 @@ let score = 33
 
 console.log(typeof score)
 
-let isLoggedIn = 1
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
+// let isLoggedIn = 1
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanIsLoggedIn)
 
-let number = 1
-let StringNo = String(number)
+// let number = 1
+// let StringNo = String(number)
 
-console.log(StringNo)
-console.log (typeof StringNo)
+// console.log(StringNo)
+// console.log (typeof StringNo)
+
+let gamecounter = 100
+gamecounter++
+console.log(gamecounter)
